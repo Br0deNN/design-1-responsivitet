@@ -1,0 +1,12 @@
+body{
+    background-color: #2d72da;
+}
+
+section {
+    background-color: rgb(243, 166, 22);
+    width: 50vw;
+    height: 98vh;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
