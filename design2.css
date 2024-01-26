@@ -8,5 +8,16 @@ section {
     height: 98vh;
     border-radius: 100%;
     margin: 0 auto;
+    position: relative;
+}
+
+@media screen and (max-width: 800px) {
+    section {
+        background-color: rgb(243, 166, 22);
+        width: 50vw;
+        height: 98vh;
+        border-radius: 100%;
+        margin: 0 auto;
+    }
 }
 
