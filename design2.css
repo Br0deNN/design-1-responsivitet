@@ -1,16 +1,21 @@
 body{
-    background-color: #2d72da;
     margin: 0;
 }
 
-section {
+div {
+    grid-template-columns: 1fr 2fr 1fr;
+    background-color: #2d72da;
+    height: 100%;
+    width: 100%;
+    display: grid;
+}
+
+.cirkel {
     background-color: rgb(243, 166, 22);
     width: 50vw;
-    height: auto;
     border-radius: 50%;
-    position: relative;
     padding-top: 50vw;
-    margin: auto ;
+    
     
 }
 
